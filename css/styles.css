@@ -1,0 +1,10 @@
+.gree-btn{
+    background: #4CAF4F;
+    color: #FFF;
+    font-weight: 400;
+}
+
+.gree-btn:hover,.gree-btn:focus{
+    background: #4eb452;
+    color: #FFF;
+}
