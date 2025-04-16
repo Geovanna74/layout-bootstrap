@@ -8,11 +8,117 @@
     background: #4eb452;
     color: #FFF;
 }
+h5{
+    color:#4CAF4F;
+}
 
 h5 a{
    text-decoration: none;
    color: #4CAF4F;
 }
+
+h6 a{
+    text-decoration: none;
+    color: #4eb452;
+}
+
+h3{
+    margin: 20px;
+}
+
+.text-translate{
+    transform: translateY(-110%);
+    background: #fff;
+    margin: 40px;
+    border-radius: 10px;
+}
+
+.text-translate p{
+    margin: 20px;
+    height: 60px;
+
+}
+
+.text-translate a{
+    margin: 10px;
+}
+
+footer{
+    background: #263238;
+    /* height: 200px; */
+    /* margin: 30px 0; */
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+.final a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.social-midia{
+    margin: 30px 0;
+    
+}
+
+.social-midia a{
+    margin: 5px;
+}
+
+.logo{
+    margin: 40px 0 30px;
+}
+
+input{
+    border-radius: 7px;
+    background: #717171;
+    /* color: black; */
+    border: none;
+}
+
+form{
+    display: flex;
+    transform: translateX(-10);    
+}
+
+button{
+   border: 0;
+   background: transparent;
+  
+}
+
+h6{
+    color: #fff;
+    margin: 40px 0 10px;
+    font-weight: bold;
+}
+
+.final p{
+    color: #fff;
+}
+
+/* .placeholder{
+    color: #fff;
+} */
+
+.translate-button{
+    transform: translateX(-32px);
+}
+
+::placeholder{
+    color: #c2c2c2;
+    padding: 4px;
+}
+
+/* .Pellentesque h3{
+    width: 50px 0 0;
+} */
+ .Pellentesque{
+    margin-top: -110px;
+ }
 
 
 
